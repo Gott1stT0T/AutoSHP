@@ -1,0 +1,5 @@
+# OCR 与图像依赖（模型来自本机 MAA，不分发在本项目里）
+numpy>=1.24
+opencv-python-headless>=4.8
+onnxruntime>=1.16
+rapidocr_onnxruntime>=1.4.4

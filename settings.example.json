@@ -1,0 +1,28 @@
+{
+  "device": "auto",
+  "maa_dir": "",
+  "launcher_path": "",
+  "pc_client_path": "",
+  "auto_launch": true,
+  "auto_elevate": true,
+  "launch_timeout": 180,
+  "window_title": ["明日方舟", "Arknights"],
+  "game_exe": "Arknights.exe",
+  "win32": {
+    "screencap": "printwindow",
+    "input": "cursor",
+    "anchor": [960, 540],
+    "parallax_wait": 0.2,
+    "block_input": false,
+    "click_hold": 0.045,
+    "move_step_delay": 0.012,
+    "popup_composite": true
+  },
+  "ocr_dir": "",
+  "adb": "",
+  "address": "",
+  "log_dir": "farm_logs",
+  "done_file": "strategies_done.json",
+  "log_keep": 200,
+  "warn_if_maa_running": true
+}
